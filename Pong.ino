@@ -1,8 +1,6 @@
 /* 8x8 Matrix Display for Arduino
  * Pong with Preceding Frames Animation
  * Simeng Yang
- * April 21, 2016
- * TEJ4M, Mr. French
  */
 
 //Global variables
